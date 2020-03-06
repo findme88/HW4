@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    max-width: 970px;
+    margin: 0 auto;
+    
+}
+
+.header {
+    background: #9A0909;
+    text-align: center;
+
+}
+
+.navigation {
+    background: black;
+    height: 300px;
+    display: flex;
+    
+ 
+}
+.pictures {
+    color: antiquewhite;
+    text-align: center;
+    margin: 5px;
+    
+    
+   
+}
+
