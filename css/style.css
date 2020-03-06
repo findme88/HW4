@@ -1,13 +1,12 @@
 .container {
-  font-family: "Inconsolata", monospace;
   width: 951px;
-  height: 1000px;
+  height: 620px;
   margin: 0 auto;
   background: #9a0909;
+  font-family: "Inconsolata", monospace;
 }
 
 .header {
-  
   text-align: center;
 }
 
@@ -20,7 +19,7 @@
 }
 
 .pictures {
-  color: antiquewhite;
+  color: #ffffff;
   text-align: center;
   margin: 35px;
 }
@@ -49,6 +48,7 @@
 .center_text {
   font-size: 18px;
   line-height: 0.8;
+  color: white;
 }
 
 .aside_block {
@@ -75,7 +75,7 @@ h1 {
 .footer {
   text-align: center;
   background: #d6360b;
-  color: white;
+  color: #ffffff;
   margin-top: 20px;
   font-size: 20px;
   margin-left: 6px;
